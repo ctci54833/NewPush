@@ -50,5 +50,15 @@ namespace DLLTestForm
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            bool OKNG;
+            string MSG;
+            codecheck.Code25_2_2_SI(40, out OKNG, out MSG);
+            MessageBox.Show(OKNG + "\r" + MSG);
+
+
+        }
     }
 }
