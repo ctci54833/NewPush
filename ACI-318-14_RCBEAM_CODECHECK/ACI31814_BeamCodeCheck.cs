@@ -17,6 +17,7 @@ namespace ACI_318_14_RCBEAM_CODECHECK
             string C = "AAA";
             CC = A + B + C;
             MSG = "this is test message!";
+            //////
         }
 
         //ACI 318-14 9.6.1.2 最小鋼筋量
