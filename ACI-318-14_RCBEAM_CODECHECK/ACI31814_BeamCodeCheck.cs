@@ -474,9 +474,7 @@ namespace ACI_318_14_RCBEAM_CODECHECK
             }
         }
 
-        //pushaaa dsdsdsdsd
-
-        double AA = 0.0;
+       
 
     }
 
